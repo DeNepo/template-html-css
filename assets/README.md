@@ -1,0 +1,3 @@
+# Assets
+
+any other images, fonts, ...
