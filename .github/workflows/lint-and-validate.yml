@@ -10,6 +10,10 @@ jobs:
   lint-md:
     runs-on: ubuntu-latest
     steps:
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
       - run: npm install
       - run: npm run lint:md
       - run: npm run lint:css
