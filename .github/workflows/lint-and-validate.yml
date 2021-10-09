@@ -3,20 +3,17 @@ name: lint and validate
 on:
   pull_request:
     branches: [master, main]
-  push:
-    branches: [master, main]
 
 jobs:
   lint-md:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v1
-        with:
-          node-version: ${{ matrix.node-version }}
+      - name: Checkout
+        uses: actions/checkout@v2
+        
       - run: npm install
       - run: npm run lint:md
       - run: npm run lint:css
       - run: npm run validate:html -- ./index.html
       - run: npm run validate:html -- ./pages
+      
