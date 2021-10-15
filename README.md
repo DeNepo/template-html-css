@@ -14,6 +14,8 @@
 
 - `npm run format`: Makes sure all the code in this repository is well-formatted
   (looks good).
+- `npm run lint:ls`: Checks to make sure all folder and file names match the
+  repository conventions.
 - `npm run lint:md`: Will lint all of the Markdown files in this repository.
 - `npm run lint:css`: Will lint all of the CSS files in this repository.
 - `npm run validate:html -- ./path/to/file.html`: Validates all HTML files in
