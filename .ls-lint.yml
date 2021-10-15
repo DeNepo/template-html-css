@@ -1,0 +1,12 @@
+ls:
+  .dir: kebab-case
+  .md: regex:[a-z0-9A-Z\-]+
+  .html: kebab-case
+  .css: kebab-case
+
+ignore:
+  - .git
+  - node_modules
+  - accessibility_report
+  - .github
+  - .vscode

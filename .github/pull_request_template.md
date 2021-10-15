@@ -1,15 +1,13 @@
----
-name: code review PR
-about: A template PR for contributing to this project
----
-
 <!--
   make this PR easy to find:
 
-  - assign yourself
-  - use labels
-  - request a review when you open a PR
+  - assign and add reviewers
+  - add any helpful labels
+  - connect it to a milestone (if necessary)
+  - link it with an issue (if necessary)
 -->
+
+<!-- describe your PR -->
 
 ## Checklists
 

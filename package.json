@@ -5,6 +5,7 @@
   "scripts": {
     "format": "prettier --write ./",
     "spell-check": "cspell  './**'",
+    "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
     "lint:css": "stylelint --fix './**/*.css'",
     "validate:html": "html-validate",
@@ -20,5 +21,8 @@
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0"
+  },
+  "dependencies": {
+    "@ls-lint/ls-lint": "^1.10.0"
   }
 }
