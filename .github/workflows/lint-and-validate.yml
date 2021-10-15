@@ -3,8 +3,6 @@ name: lint and validate
 on:
   pull_request:
     branches: [master, main]
-  push:
-    branches: [master, main]
 
 jobs:
   lint-md:
@@ -13,7 +11,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Lint and Validate
       - run: npm install
       - run: npm run lint:md
       - run: npm run lint:css
