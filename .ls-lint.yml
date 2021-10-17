@@ -1,8 +1,14 @@
 ls:
   .dir: kebab-case
-  .md: regex:[a-z0-9A-Z\-]+
+  .md: kebab-case | regex:[0-9A-Z\-]+
   .html: kebab-case
   .css: kebab-case
+  .jpg: kebab-case
+  .jpeg: kebab-case
+  .svg: kebab-case
+  .gif: kebab-case
+  .mp4: kebab-case
+  .ico: kebab-case
 
 ignore:
   - .git
