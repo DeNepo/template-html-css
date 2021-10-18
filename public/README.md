@@ -1,3 +1,3 @@
-# Assets
+# Public
 
 any other images, fonts, ...
