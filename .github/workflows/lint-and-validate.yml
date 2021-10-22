@@ -5,7 +5,7 @@ on:
     branches: [master, main]
 
 jobs:
-  lint-md:
+  lint-and-validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
