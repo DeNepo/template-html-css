@@ -8,7 +8,7 @@
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
     "lint:css": "stylelint --fix './**/*.css'",
-    "validate:html": "html-validate",
+    "validate:html": "html-validate ./",
     "accessibility": "achecker"
   },
   "author": "HYF Belgium",
@@ -20,9 +20,7 @@
     "markdownlint-cli": "^0.28.1",
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^22.0.0"
-  },
-  "dependencies": {
+    "stylelint-config-standard": "^22.0.0",
     "@ls-lint/ls-lint": "^1.10.0"
   }
 }
