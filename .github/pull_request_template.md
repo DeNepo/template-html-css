@@ -38,8 +38,9 @@
 
 ### HTML
 
+- [ ] pages besides `/index.html` are stored in `/pages`
 - [ ] the code is well-formatted
-- [ ] the HTML code passes validation
+- [ ] the HTML is valid
 - [ ] there are no inline styles (example: `style='color: red;'`)
 - [ ] there are no `<style>` tags with CSS, all styles are hrefs
 - [ ] there is no inline JavaScript (example: `onclick='doSomething()'`)
