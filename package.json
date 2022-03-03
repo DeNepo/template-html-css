@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "format": "prettier --write ./",
+    "format:check": "prettier --check ./",
     "spell-check": "cspell  './**'",
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
