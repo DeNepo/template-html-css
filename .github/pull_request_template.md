@@ -9,9 +9,7 @@
 
 <!-- describe your PR -->
 
-## Checklists
-
-### General Checks
+## General Checks
 
 - [ ] the branch is up to date with `main`/`master`
 - [ ] the code works when pulled and run locally
