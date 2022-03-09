@@ -7,8 +7,8 @@
     "format:check": "prettier --check ./",
     "spell-check": "cspell  './**'",
     "lint:ls": "ls-lint",
-    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
-    "lint:css": "stylelint --fix './**/*.css'",
+    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc ./ ",
+    "lint:css": "stylelint './**/*.css'",
     "validate:html": "html-validate ./",
     "accessibility": "achecker"
   },
