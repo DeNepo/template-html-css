@@ -1,8 +1,81 @@
-# (project name)
+# Name of project
 
-<!-- describe your project -->
+> A longer description
 
-## Getting Started
+## Table of contents
+
+- [Name of project](#name-of-project)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Inspiration](#inspiration)
+  - [Contact](#contact)
+  - [Instructions for use](#instructions-for-use)
+  - [Code Quality Checks](#code-quality-checks)
+  - [Continuous Integration (CI)](#continuous-integration-ci)
+  - [Repo Setup](#repo-setup)
+
+## General info
+
+> A short description
+
+## Screenshots
+
+![Example screenshot](./planning/screenshot.jpg)
+
+## Technologies
+
+- Node 14.16.0
+- VSC code
+- JavaScript
+- ...
+- ...
+
+## Setup
+
+- `npm run start`
+
+## Code Examples
+
+```js
+// the hello world program
+console.log("Hello World");
+```
+
+## Features
+
+List of features ready and Todos for future development
+
+-
+-
+-
+
+To-do list:
+
+-
+-
+
+## Status
+
+Project is: _in progress_
+
+## Inspiration
+
+Project by freeCodeCamp.org
+
+## Contact
+
+By [Name]
+
+## Instructions for use
+
+<details>
+  <summary>Getting Started</summary>
 
 <!-- a guide to using this repository -->
 
@@ -51,3 +124,5 @@ locally.
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
+
+</details>

@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Basic-layout/README.md at main · bermarte/Basic-layout</title>
+  <title>Basic-layout/backlog.md at main · bermarte/Basic-layout</title>
     <meta name="description" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/479085454/707f3b2f-f677-42f3-a302-0ab89de921a7" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Basic-layout/README.md at main · bermarte/Basic-layout" /><meta name="twitter:description" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." />
-    <meta property="og:image" content="https://repository-images.githubusercontent.com/479085454/707f3b2f-f677-42f3-a302-0ab89de921a7" /><meta property="og:image:alt" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Basic-layout/README.md at main · bermarte/Basic-layout" /><meta property="og:url" content="https://github.com/bermarte/Basic-layout" /><meta property="og:description" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/479085454/707f3b2f-f677-42f3-a302-0ab89de921a7" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Basic-layout/backlog.md at main · bermarte/Basic-layout" /><meta name="twitter:description" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." />
+    <meta property="og:image" content="https://repository-images.githubusercontent.com/479085454/707f3b2f-f677-42f3-a302-0ab89de921a7" /><meta property="og:image:alt" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Basic-layout/backlog.md at main · bermarte/Basic-layout" /><meta property="og:url" content="https://github.com/bermarte/Basic-layout" /><meta property="og:description" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." />
     
 
 
@@ -72,12 +72,12 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/78535490/ws?session=eyJ2IjoiVjMiLCJ1Ijo3ODUzNTQ5MCwicyI6ODQzODMxNDA1LCJjIjoyNDI2NTE2MTAzLCJ0IjoxNjQ5NDMwNDA2fQ==--30af6ed81b20b62d733bf55165c52b36bda138a0940fed108c2998666dc2f88b" data-refresh-url="/_alive" data-session-id="4527e0737c078b93a22facea750ddb8dc3553c087e5f8326234fcca63098f93a">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/78535490/ws?session=eyJ2IjoiVjMiLCJ1Ijo3ODUzNTQ5MCwicyI6ODQzODMxNDA1LCJjIjozOTQzMDQyODM0LCJ0IjoxNjQ5NDMwMzcxfQ==--3df0084532047b7621acf803551294e7b7c9fe9025fa9cd01b1a044dc7908340" data-refresh-url="/_alive" data-session-id="4527e0737c078b93a22facea750ddb8dc3553c087e5f8326234fcca63098f93a">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="9283:D822:58C60E:60C7FD:62504F80" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d20bbe840e7f796354ddc7b7b8b32a29eeb85e4bc3cce53294582366ae0b292a" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9iZXJtYXJ0ZS9CYXNpYy1sYXlvdXQvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IjkyODM6RDgyMjo1OEM2MEU6NjBDN0ZEOjYyNTA0RjgwIiwidmlzaXRvcl9pZCI6IjY1NjUxMDczMjM2OTg2NDgxNSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="6d375997d01a567bc7298533dcf474777cda7c9e800e96d40667177c1b80c587" data-pjax-transient="true" />
+  <meta name="request-id" content="9283:D822:58B341:60B381:62504F5C" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d20bbe840e7f796354ddc7b7b8b32a29eeb85e4bc3cce53294582366ae0b292a" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9iZXJtYXJ0ZS9CYXNpYy1sYXlvdXQvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IjkyODM6RDgyMjo1OEIzNDE6NjBCMzgxOjYyNTA0RjVDIiwidmlzaXRvcl9pZCI6IjY1NjUxMDczMjM2OTg2NDgxNSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="9f71e7b576d4a89677fbd6b3069d48f82bc3baae04523c6633eb139af5c979d0" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:479085454" data-pjax-transient>
 
@@ -113,7 +113,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZjRlNWNjYmZiYTI4NzRkMzUyZDI0MTBiNzIxZjA4MGFlMTVkYjgyNGVlMzgyMWZkM2JlYjNkOWI2NzYxNzUxZXx7InJlbW90ZV9hZGRyZXNzIjoiODIuMTMxLjE4NS4xODgiLCJyZXF1ZXN0X2lkIjoiOTI4MzpEODIyOjU4QzYwRTo2MEM3RkQ6NjI1MDRGODAiLCJ0aW1lc3RhbXAiOjE2NDk0MzA0MDYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="ZGMxODgxMzk4MDNhYjE1NzA1NWYwYzE0ODc3NjgyZTk4ZmJjZWEzNmZhNjk5NjMxNmU3ZWRhYmM0YWVjNDM0N3x7InJlbW90ZV9hZGRyZXNzIjoiODIuMTMxLjE4NS4xODgiLCJyZXF1ZXN0X2lkIjoiOTI4MzpEODIyOjU4QjM0MTo2MEIzODE6NjI1MDRGNUMiLCJ0aW1lc3RhbXAiOjE2NDk0MzAzNzEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -131,7 +131,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/bermarte/Basic-layout/blob/main/planning/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -221,7 +221,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="ZwA1sny3vREVfIqimdiulOnNkVzPqmOgBT3NCSx0xSDo0rsJLK12RsaeE0KegNizfz4aBFa2bRUghue9Bm-07A" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="z90ENk-ROgF8runJ6mhuGMoYQmsdpiV56On676py3phAD4qNH4vxVq9McCntMBg_XOvJM4S6K8zNUtBbgGmvVA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -420,7 +420,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;danielhalasz&quot;,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="4d6760fad1e88552ff4d6c860c02bff7622d03ec2e1511edac4623efcceb698e" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;danielhalasz&quot;,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="e15b5ec316f750fc5993bc805ee3717cc47f02a0fe6653f7217177fb6de9b782" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -428,7 +428,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/78535490?s=40&amp;v=4" width="20" height="20" alt="@danielhalasz" />
       danielhalasz
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="49lOsvbmokyEU44l1wBCoKA9LqPyAmAcDV9wNgBoVvitMqYPv3pRVI1tSfA7MByijF3pIqPrurCVTg6u_12RcQ" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NHe9I1WmO7EVpeSVn-dCdUGlX9ll1j4OUjGUWb5IUxd6nFWeHDrIqRybI0Bz1xx3bcWYWDQ_5KLKIOrBQX2Ung" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -467,7 +467,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzg1MzU0OTAiLCJ0IjoxNjQ5NDMwNDA2fQ==--cbc9cf51640bbcd48445f99b64c6ad5ea427f13ce4e146cf6610b5603d843b3f">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Nzg1MzU0OTAiLCJ0IjoxNjQ5NDMwMzcxfQ==--786d02a3cc534f79a64aa00338f83b8b46f4e9604a01d14863171421b0c221ae">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -603,7 +603,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/bermarte/Basic-layout/blob/main/planning/README.md
+      data-return-to=/bermarte/Basic-layout/blob/main/planning/backlog.md
       data-user-id="78535490"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -616,10 +616,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="2hZ1NpFEVQRJvhkCa2InCxAFVxE00ObCbipLmSRC846H2JJmg1i_7KQBgSY91BfUWPfKLtaA8KeDnQ4xtyIHgA" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="-5wdk-kt-Bb5lUpeTSwBRjNGtS-49Itv23YRNsC5ztCmUvrD-zES_hQq0nobmjGZe7QoEFqknQo2wVSeU9k63g" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="MAEZDkI2uVH6oVY0boUq3TGo5KZIXigCiIzFOsz7P9PiY9ReJCBijBEzD7HMNdaVEABv6S4rhaea6V7O-ebNrw" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="RC4xwvIxPcfy2fiwHu0cQx2sSKI8OWBViDqyMOv95FaWTPySlCfmGhlLoTW8XeALPATD7VpMzfCaXynE3uAWKg" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1523,7 +1523,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="9127a2f5eaeeead7c42e87ba71c62a25f2eba801178926727934322138f168b4" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="9e457992e4d6af7b17017a228bb112409c196c7b8156401a12e0e53b25ae0868" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1576,7 +1576,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zP_qSHSGIc4Rv0kluBtngw5A_JOaAvxKOBbzSpvXLhmCjczu8Cn5MOsAYC3AercZiGiXFzmGZBcTIjrK6EydBQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XHYFgS8QpC8Qpa_WiWVrAkipL35EZzYrQRz4Qo9sTNsSBCMnq7980eoaht7xBLuYzoFE-ufjrnZqKDHC_Pf_xw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="479085454">
 
@@ -1694,7 +1694,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="35ASMCHJ82seH43-zdVxUIdznf0CZKl_6dPUVdUteOaR4jSWpWYrleSgpPa1tKHKAVv2eaHgMSLC5x3VprbL-g" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jHjEF74a24M7isaZuOSWRulf9Spa-uvGtMVh2v-aiq_CCuKxOrUDfcE175HAhUbcb3eervl-c5uf8ahajAE5sw" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="479085454">
 
@@ -1843,7 +1843,7 @@
   <li>
             <div class="float-left">
         <details class="details-reset details-overlay details-overlay-dark " >
-                <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="4fa51758fb31efb40710b640126586af3290cdf6818f7fb9adc0b19ca92bb9d3" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of bermarte/Basic-layout to your account" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+                <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="8eb209088d0092c60c6d349e667a49818abbc5ea2f5e527b94393c7ebd14beca" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of bermarte/Basic-layout to your account" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
               <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1901,19 +1901,19 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/bermarte/Basic-layout/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CBYT4jINZxmyPBPtr-wS8ET2JXr4f602zHia5sR7ZBcnMxVPWi3gIz2ITbi5W4DveiRXuaB6TDbMjaqfHreFDw" autocomplete="off" />
-        <input type="hidden" value="L6udcmuhRda9WBjCd-fBlCqbVljvL7I3EsbvbYCzuxYAjpvfA4HC7DLsRpdhUFOLFEkkm7cqUzcSM98UWn9aDg" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/bermarte/Basic-layout/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ljooOc9axepeTGstGvIRVfQsG5frxwsw183FBqgK2NS5Hy6Up3pC0NH4NXgMRYNKyv5pVLPC6jDXOPV_csY5zA" autocomplete="off" />
+        <input type="hidden" value="eSYnmI-sK3PUrK_hE0ARjSdvSGCyVwMrGTy0xibWtSBWAyE154ysSVsY8bQF94OSGb06o-pS4isZyYS__BpUOA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="304f1385c4aca7dc6f4f2aac87064e4fbc8115442e26e10c57b23cd2d1162496" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="8b944c1f42f1ad99fb8b68a3bbb5de5e66fd0956b4eb26a9afdd77c79cca686c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/bermarte/Basic-layout/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uMuz0VCrfmQBMeJfUYFBuWBNwyr6ev-7tRXwoWTHhsdXSkDk3Y5IaD00vSU7AARSWkI_swc0sm4zR2R9dJ2uxA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/bermarte/Basic-layout/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H8lBRRTzrqOSYy62HSTEtPQOw-JW7dOPcUmVjmcdEfXwSLJwmdaYr65mccx3pYFfzgE_e6ujnlr3GwFSd0c59g" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="5c7a37240c2d7e9a2258ba18eb428b9cc477e5fb992968f0283ff376cd5dabeb" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="1c6e106d2cdcdca51b83956be84ad7b297fdd7449404ad1ad27613599cf737cf" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1934,13 +1934,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b8e46c">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9d4fc8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b8e46c"
+        id="filter-menu-9d4fc8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2143,7 +2143,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/backlog.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2228,7 +2228,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/bermarte/Basic-layout/blob/{{ urlEncodedRefName }}/planning/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/bermarte/Basic-layout/blob/{{ urlEncodedRefName }}/planning/backlog.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2268,7 +2268,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/bermarte/Basic-layout/blob/{{ urlEncodedRefName }}/planning/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/bermarte/Basic-layout/blob/{{ urlEncodedRefName }}/planning/backlog.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2299,7 +2299,7 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/bermarte/Basic-layout"><span>Basic-layout</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/bermarte/Basic-layout/tree/main/planning"><span>planning</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/bermarte/Basic-layout"><span>Basic-layout</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/bermarte/Basic-layout/tree/main/planning"><span>planning</span></a></span><span class="separator">/</span><strong class="final-path">backlog.md</strong>
   </h2>
   <a href="/bermarte/Basic-layout/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
@@ -2312,7 +2312,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="ccdf6dbce9d48f52c95064717c0b4714798ed12999703e788cf35f15e2e2aac0" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/bermarte/Basic-layout/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="7f1b63145ae2e757f9807fbc81e98a8294680ac60ce431868d1ba8e767c706ad" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/bermarte/Basic-layout/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2325,13 +2325,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="planning/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="planning/backlog.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/backlog.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2363,7 +2363,7 @@
     <include-fragment src="/bermarte/Basic-layout/spoofed_commit_check/4f2fceb18976de14178645dad83888e0c25334be" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/bermarte/Basic-layout/contributors/main/planning/README.md" class="commit-loader">
+  <include-fragment src="/bermarte/Basic-layout/contributors/main/planning/backlog.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2396,8 +2396,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}"
-  data-menu-hydro-click-hmac="73816a5c1703ba093fc31f8fd295d86a183a851fa20e67254c408239adcda3b5"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}"
+  data-menu-hydro-click-hmac="cc6c338f3db63db49887f0761c36f9789cc3241781de81e80d5d4cd87fde02af"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2413,27 +2413,12 @@
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
 
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
 
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#how-to-plan">How to Plan</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#brainstorming">Brainstorming</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#prioritizing">Prioritizing</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#acceptance-criteria">Acceptance Criteria</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#user-story-dependencies">User Story Dependencies</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#defining-tasks">Defining Tasks</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#project-board">Project Board</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/README.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="b75e641d5702612470cb0f350ca0eafcc102d19c2db7a5135d5f74a37081a608" href="#sprinting-and-reviewing">Sprinting and Reviewing</a>
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="de75252c262e62f54584377f58e758c92282d6873edbc0bc0535448daa3db9b1" href="#backlog">Backlog</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="de75252c262e62f54584377f58e758c92282d6873edbc0bc0535448daa3db9b1" href="#must-haves">Must-Haves</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="de75252c262e62f54584377f58e758c92282d6873edbc0bc0535448daa3db9b1" href="#should-haves">Should-Haves</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:479085454,&quot;originating_url&quot;:&quot;https://github.com/bermarte/Basic-layout/blob/main/planning/backlog.md&quot;,&quot;user_id&quot;:78535490}}" data-hydro-click-hmac="de75252c262e62f54584377f58e758c92282d6873edbc0bc0535448daa3db9b1" href="#could-haves">Could-Haves</a>
       </div>
     </div>
   </details-menu>
@@ -2442,18 +2427,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      112 lines (70 sloc)
+      24 lines (14 sloc)
       <span class="file-info-divider"></span>
-    4.48 KB
+    900 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-    <a href="/bermarte/Basic-layout/blob/main/planning/README.md?plain=1" data-permalink-href="/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <a href="/bermarte/Basic-layout/blob/main/planning/backlog.md?plain=1" data-permalink-href="/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/backlog.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
   
-</a>    <a href="/bermarte/Basic-layout/blob/main/planning/README.md" data-permalink-href="/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>    <a href="/bermarte/Basic-layout/blob/main/planning/backlog.md" data-permalink-href="/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/backlog.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
 </svg>
   
@@ -2461,16 +2446,16 @@
 
 
     <div class="BtnGroup">
-      <a data-permalink-href="/bermarte/Basic-layout/raw/4f2fceb18976de14178645dad83888e0c25334be/planning/README.md" href="/bermarte/Basic-layout/raw/main/planning/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/bermarte/Basic-layout/raw/4f2fceb18976de14178645dad83888e0c25334be/planning/backlog.md" href="/bermarte/Basic-layout/raw/main/planning/backlog.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/bermarte/Basic-layout/blame/4f2fceb18976de14178645dad83888e0c25334be/planning/README.md" href="/bermarte/Basic-layout/blame/main/planning/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/bermarte/Basic-layout/blame/4f2fceb18976de14178645dad83888e0c25334be/planning/backlog.md" href="/bermarte/Basic-layout/blame/main/planning/backlog.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/bermarte/Basic-layout?branch=main&amp;filepath=planning%2FREADME.md"
+             href="x-github-client://openRepo/https://github.com/bermarte/Basic-layout?branch=main&amp;filepath=planning%2Fbacklog.md"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2479,7 +2464,7 @@
           </a>
 
         
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/bermarte/Basic-layout/edit/main/planning/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="c4rELbFH-Al8aDhvkAzaibUEGAVKycCAytpEwEAPF4V-43ZsQpO2b1ZVnf09n9hGAp-ONyJddatsKNCUwZmZxw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/bermarte/Basic-layout/edit/main/planning/backlog.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="io_0JAWaEZmsduE5YW3ttfu_bxcJd28zFmw-1we6L5otus85oOvCcbalDBJ8fKUU6ODW4WNayC29WKdEcFZwbQ" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2487,7 +2472,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/bermarte/Basic-layout/delete/main/planning/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="isUatigZy5PwZvAxU_9AzouJsQJZD2SrCmQ70BztDiQhMopj3BnEGleJP7qJ-NDaijKBX38_YIXsaxdBxrK_BQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/bermarte/Basic-layout/delete/main/planning/backlog.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Mu3KVhuW4Hu4Yr9NnpUIeezCJluEZDGE1sCzZYnoyF6LXUKOxC1FYkcrghIIJyONQ54-N_gLJq2WXeFyEa1DyQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2509,30 +2494,30 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/bermarte/Basic-layout?branch=main&amp;filepath=planning%2FREADME.md"
+                   href="x-github-client://openRepo/https://github.com/bermarte/Basic-layout?branch=main&amp;filepath=planning%2Fbacklog.md"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/bermarte/Basic-layout/raw/main/planning/README.md">
+            <a class="dropdown-item" href="/bermarte/Basic-layout/raw/main/planning/backlog.md">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/bermarte/Basic-layout/blame/main/planning/README.md">
+              <a class="dropdown-item" href="/bermarte/Basic-layout/blame/main/planning/backlog.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/bermarte/Basic-layout/edit/main/planning/README.md">Edit file</a>
+                <a class="dropdown-item" href="/bermarte/Basic-layout/edit/main/planning/backlog.md">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/bermarte/Basic-layout/delete/main/planning/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/bermarte/Basic-layout/delete/main/planning/backlog.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2541,124 +2526,41 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-how-to-plan" class="anchor" aria-hidden="true" href="#how-to-plan"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>How to Plan</h1>
-<ol dir="auto">
-<li><a href="#brainstorming">Brainstorming</a></li>
-<li><a href="#prioritizing">Prioritizing</a></li>
-<li><a href="#user-story-Dependencies">User Story Dependencies</a></li>
-<li><a href="#acceptance-criteria">Acceptance Criteria</a></li>
-<li><a href="#defining-tasks">Defining Tasks</a></li>
-<li><a href="#project-board">Project Board</a></li>
-<li><a href="#sprinting-and-reviewing">Sprinting and Reviewing</a></li>
-</ol>
-<hr>
-<h2 dir="auto"><a id="user-content-brainstorming" class="anchor" aria-hidden="true" href="#brainstorming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Brainstorming</h2>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-backlog" class="anchor" aria-hidden="true" href="#backlog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Backlog</h1>
+<p dir="auto">A collection of user stories you can choose from. Stories inside each priority level are not necessarily in order, it's up to your group to decide how they fit into your strategy. These are also just suggestion, feel free to change them or create your own!</p>
+<h2 dir="auto"><a id="user-content-must-haves" class="anchor" aria-hidden="true" href="#must-haves"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Must-Haves</h2>
 <blockquote>
-<ul dir="auto">
-<li>What user needs and business problem does this app cover?</li>
-<li>Who is the user?</li>
-<li>What is the business?</li>
-</ul>
+<p dir="auto">these are necessary for basic usability</p>
 </blockquote>
-<hr>
-<h2 dir="auto"><a id="user-content-prioritizing" class="anchor" aria-hidden="true" href="#prioritizing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Prioritizing</h2>
-<blockquote>
-<p dir="auto">How to decide which stories to focus on.</p>
-</blockquote>
-<p dir="auto">At this stage in planning your team will decide which stories are more aor less important. You will be writing your ideas into a <em>backlog</em>.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> As a ... I want to ... so that ...
 <ul dir="auto">
-<li><a href="https://zapier.com/blog/how-to-prioritize" rel="nofollow">Many Strategies</a></li>
-<li>The Priority Quadrant
-<ul dir="auto">
-<li><a href="https://www.youtube.com/watch?v=NGvsxPOmWuw" rel="nofollow">The Quadrant</a></li>
-<li><a href="https://www.linkedin.com/pulse/why-prioritization-impacteffort-doesnt-work-itamar-gilad" rel="nofollow">Problems with this method</a></li>
-</ul>
-</li>
-<li>Other Perspectives
-<ul dir="auto">
-<li><a href="https://medium.com/swlh/prioritizing-user-stories-in-agile-projects-d1dd8dd79165" rel="nofollow">Alex Ponomarev</a></li>
-<li><a href="https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/" rel="nofollow">Michael Lant</a></li>
+<li><em>Given [context] when [a specific action is performed] then [a set of consequences should occur]</em></li>
 </ul>
 </li>
 </ul>
-<hr>
-<h2 dir="auto"><a id="user-content-acceptance-criteria" class="anchor" aria-hidden="true" href="#acceptance-criteria"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Acceptance Criteria</h2>
+<h2 dir="auto"><a id="user-content-should-haves" class="anchor" aria-hidden="true" href="#should-haves"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Should-Haves</h2>
 <blockquote>
-<p dir="auto">How you'll know when a story is finished.</p>
+<p dir="auto">these will complete the user experience, but are not necessary</p>
 </blockquote>
-<p dir="auto">Now that you have an idea what the project will eventually be like, it's time to get specific.  Acceptance criteria are a way to scope and verify your user stories.</p>
-<blockquote>
-<p dir="auto">Given [context] when [a specific action is performed] then [a set of consequences should occur]</p>
-</blockquote>
-<p dir="auto">You can write your first-draft acceptance criteria in your backlog, later moving them under each user story in your <code>development-strategy.md</code>, and ultimately creating a checklist in each issue.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> As a ... I want to ... so that ...
 <ul dir="auto">
-<li><a href="https://www.yodiz.com/blog/user-stories-acceptance-definition-and-criteria-in-agile-methodologies/" rel="nofollow">Yodiz</a></li>
-<li><a href="https://zepel.io/agile/acceptance-criteria-for-user-stories/" rel="nofollow">Zepel</a></li>
-<li><a href="https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important" rel="nofollow">Ruby Garage</a></li>
-<li><a href="https://www.youtube.com/watch?v=KYS0ptJ4JWc" rel="nofollow">The Infinity Project</a>
-<ol dir="auto">
-<li>User Input / User Action</li>
-<li>Process</li>
-<li>Results</li>
-</ol>
+<li><em>Given [context] when [a specific action is performed] then [a set of consequences should occur]</em></li>
+</ul>
 </li>
 </ul>
-<hr>
-<h2 dir="auto"><a id="user-content-user-story-dependencies" class="anchor" aria-hidden="true" href="#user-story-dependencies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>User Story Dependencies</h2>
+<h2 dir="auto"><a id="user-content-could-haves" class="anchor" aria-hidden="true" href="#could-haves"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Could-Haves</h2>
 <blockquote>
-<p dir="auto">How to plan your development schedule.</p>
+<p dir="auto">would be really cool ... if there's time</p>
 </blockquote>
-<p dir="auto">Some user stories depend on each other, some do not.  Figuring out these relationships will make it possible go from a disorganized backlog to an organized development strategy.</p>
-<p dir="auto">Understanding these dependencies can also allow you to develop much more efficiently. You can develope user stories that do not depend on each other in parallel instead of waiting for one to finish before moving on the next.</p>
-<p dir="auto">Here are some questions you can ask yourself to help understand your project:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> As a ... I want to ... so that ...
 <ul dir="auto">
-<li>Do I need <em>A</em> in order to be able to build <em>B</em>?</li>
-<li>Can the user do B without A being available?</li>
+<li><em>Given [context] when [a specific action is performed] then [a set of consequences should occur]</em></li>
 </ul>
-<p dir="auto">A nice way to visualize these relationships is by creating a graph to visually represent dependencies:</p>
-<ul dir="auto">
-<li><a href="https://excalidraw.com/#json=5248906938023936,dnJz0Qy9tk5M4ho-RUiqYQ" rel="nofollow">a quiz app</a></li>
-<li><a href="https://github.com/elewa-student/User-Centered-Development#story-dependencies">a portfolio example</a></li>
+</li>
 </ul>
-<p dir="auto"><a href="https://excalidraw.com/" rel="nofollow">Excalidraw</a> is a great tool for collaboratively writing these diagrams.</p>
-<hr>
-<h2 dir="auto"><a id="user-content-defining-tasks" class="anchor" aria-hidden="true" href="#defining-tasks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Defining Tasks</h2>
-<blockquote>
-<p dir="auto">How to break the story into coding tasks.</p>
-</blockquote>
-<p dir="auto">Answering these questions is a way to break down complex user stories and to determine what code is needed. Following this questions guide will help you fill in the specifications of each step in your <code>development-strategy.md</code></p>
-<p dir="auto">Handlers are the glue of your user stories.  Understanding your answers to these questions will not only help you decide which tasks to develop, but can be used to plan the details of the user story's handler:</p>
-<ol dir="auto">
-<li><strong>User Story Objectives</strong>
-<ol dir="auto">
-<li><em>... ?</em></li>
-</ol>
-</li>
-<li><strong>User Flow ?</strong>
-<ol dir="auto">
-<li><em>... ?</em></li>
-</ol>
-</li>
-<li><strong>Wireframes ?</strong>
-<ol dir="auto">
-<li><em>... ?</em></li>
-</ol>
-</li>
-</ol>
-<ul dir="auto">
-<li><a href="https://www.youtube.com/watch?v=gZ4uLafsxAk" rel="nofollow">Lars Bilde</a></li>
-<li><a href="https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb" rel="nofollow">Christiaan Verwijs</a></li>
-</ul>
-<hr>
-<h2 dir="auto"><a id="user-content-project-board" class="anchor" aria-hidden="true" href="#project-board"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Project Board</h2>
-<blockquote>
-<p dir="auto">How to manage your team's project</p>
-</blockquote>
-<p dir="auto">Convert your development strategy into milestones (user stories), issues, labels and a project board.  When you create the milestones for your user stories, you can include the <em>acceptance criteria</em> as a checklist in the milestone's description.</p>
-<p dir="auto">This isn't a permanent thing! You can always adjust the project board and development strategy as the project evolves; adding issues, removing issues, adjusting tasks ... whatever is necessary to make the project go smoothly.</p>
-<hr>
-<h2 dir="auto"><a id="user-content-sprinting-and-reviewing" class="anchor" aria-hidden="true" href="#sprinting-and-reviewing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sprinting and Reviewing</h2>
-<p dir="auto">The fun part, writing code and closing issues ;)</p>
 </article>
   </div>
 
