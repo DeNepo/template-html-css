@@ -43,8 +43,9 @@ Now that you have an idea what the project will eventually be like, it's time to
 get specific. Acceptance criteria are a way to scope and verify your user
 stories.
 
-> Given [context] when [a specific action is performed] then [a set of > >
-> consequences should occur]
+> Given [context] when [a specific action is performed] then [a set of > > > > >
+>
+> > consequences should occur]
 
 You can write your first-draft acceptance criteria in your backlog, later moving
 them under each user story in your `development-strategy.md`, and ultimately
