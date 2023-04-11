@@ -12,9 +12,9 @@ jobs:
         uses: actions/checkout@v2
 
       - run: npm install
-
-      - run: npm run lint:ls
+      - run: npm run format
       - run: npm run format:check
+      - run: npm run lint:ls
       - run: npm run lint:md
       - run: npm run lint:css
       - run: npm run validate:html
