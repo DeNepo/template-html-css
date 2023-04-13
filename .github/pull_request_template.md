@@ -9,6 +9,10 @@
 
 <!-- describe your PR -->
 
+## Description
+
+A clear and concise description of what the Pull Request is about.
+
 ## General Checks
 
 - [ ] the branch is up to date with `main`/`master`
