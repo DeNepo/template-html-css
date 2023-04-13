@@ -113,16 +113,17 @@ locally.
 
 ## Repo Setup
 
-- Give each member _write_ access to the repo (if it's a group project)
+- Give each member **_write_** access to the repo (if it's a group project)
 - Turn on GitHub Pages and put a link to your website in the repo's description
 - Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+- In _General_ Section > check **Discussions**
+- In the _Branches_ section of your repo's settings make sure the
+  `master`/`main` branch must:
+  - "_Require a pull request before merging_"
+  - "_Require approvals_"
+  - "_Dismiss stale pull request approvals when new commits are pushed_"
+  - "_Require status checks to pass before merging_"
+  - "_Require branches to be up to date before merging_"
+  - "_Do not allow bypassing the above settings_"
 
 </details>
