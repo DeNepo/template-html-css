@@ -11,9 +11,11 @@
 
 ## Description
 
-A clear and concise description of what the Pull Request is about.
+<!-- A clear and concise description of what the Pull Request is about. -->
 
-## General Checks
+## Checklists
+
+### General Checks
 
 - [ ] the branch is up to date with `main`/`master`
 - [ ] the code works when pulled and run locally
@@ -37,21 +39,3 @@ A clear and concise description of what the Pull Request is about.
 - [ ] spelling and grammar is correct in all text
 - [ ] The markdown looks correct when you preview the file
 - [ ] all links and images work
-
-### HTML
-
-- [ ] pages besides `/index.html` are stored in `/pages`
-- [ ] the code is well-formatted
-- [ ] the HTML is valid
-- [ ] there are no inline styles (example: `style='color: red;'`)
-- [ ] there are no `<style>` tags with CSS, all styles are hrefs
-- [ ] there is no inline JavaScript (example: `onclick='doSomething()'`)
-- [ ] there are no `<script>` tags with JS, all JS is in an separate file
-- [ ] `id`s are used for JavaScript only, not for CSS
-- [ ] semantic tags are used
-- [ ] spelling and grammar is correct in all site content
-
-### CSS
-
-- [ ] the code is well-formatted
-- [ ] passes all the linting checks
