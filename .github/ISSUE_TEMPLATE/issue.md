@@ -1,7 +1,7 @@
 ---
 name: issue
 about: A template issue for features you'd like to add/update/delete.
-title: "action: feature: details:"
+title: "action: feature: details"
 labels: ""
 assignees: ""
 ---
@@ -17,7 +17,9 @@ assignees: ""
 
 ## Description
 
-A clear and concise description of what the issue is about.
+<!-- A clear and concise description of what the issue is about. -->
+
+## Steps
 
 <!-- You can modify any parts of this template not applicable to your Issue. -->
 
