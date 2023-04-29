@@ -18,8 +18,17 @@
     "alefragnani.project-manager",
     "stylelint.vscode-stylelint",
     "vscode-icons-team.vscode-icons",
-    "formulahendry.auto-rename-tag",
-    "alefragnani.bookmarks"
+    "alefragnani.bookmarks",
+    "bierner.markdown-preview-github-styles",
+    "ecmel.vscode-html-css",
+    "htmlhint.vscode-htmlhint",
+    "pranaygp.vscode-css-peek",
+    "zignd.html-css-class-completion",
+    "juanallo.vscode-dependency-cruiser",
+    "visualstudioexptteam.vscodeintellicode",
+    "aaron-bond.better-comments",
+    "christian-kohler.path-intellisense",
+    "ms-vsliveshare.vsliveshare"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
