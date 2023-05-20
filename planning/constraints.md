@@ -14,7 +14,8 @@ Some boundaries around our project.
 ## Internal: Involuntary
 
 <!--
-  constraints that come from within your team, and you have no control over. they may include:
+  constraints that come from within your team, and you have no control over.
+  They may include:
   - each of your individual skill levels
   - amount of time available to work on the project
 -->

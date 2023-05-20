@@ -1,12 +1,12 @@
 # How to Plan
 
 1. [Brainstorming](#brainstorming)
-1. [Prioritizing](#prioritizing)
-1. [User Story Dependencies](#user-story-Dependencies)
-1. [Acceptance Criteria](#acceptance-criteria)
-1. [Defining Tasks](#defining-tasks)
-1. [Project Board](#project-board)
-1. [Sprinting and Reviewing](#sprinting-and-reviewing)
+2. [Prioritizing](#prioritizing)
+3. [User Story Dependencies](#user-story-dependencies)
+4. [Acceptance Criteria](#acceptance-criteria)
+5. [Defining Tasks](#defining-tasks)
+6. [Project Board](#project-board)
+7. [Sprinting and Reviewing](#sprinting-and-reviewing)
 
 ---
 
