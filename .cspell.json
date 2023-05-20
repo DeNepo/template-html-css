@@ -1,6 +1,21 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Ponomarev",
+    "Lant",
+    "Yodiz",
+    "Zepel",
+    "Excalidraw",
+    "Wireframes",
+    "Bilde",
+    "Christiaan",
+    "Verwijs",
+    "Todos",
+    "wireframe"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
