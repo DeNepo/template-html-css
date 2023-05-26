@@ -7,7 +7,7 @@
     "format:check": "prettier --check ./",
     "spell-check": "cspell  \"./**\"",
     "lint:ls": "ls-lint",
-    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc ./ ",
+    "lint:md": "markdownlint --config ./.markdownlint.jsonc ./ ",
     "lint:css": "stylelint \"./**/*.css\"",
     "validate:html": "html-validate ./",
     "accessibility": "achecker"
@@ -15,11 +15,11 @@
   "author": "HYF Belgium",
   "license": "MIT",
   "devDependencies": {
-    "@ls-lint/ls-lint": "^1.11.2",
+    "@ls-lint/ls-lint": "^2.0.0",
     "accessibility-checker": "^3.1.48",
-    "cspell": "^5.21.2",
-    "html-validate": "^5.5.0",
-    "markdownlint-cli": "^0.28.1",
+    "cspell": "^6.31.1",
+    "html-validate": "^7.18.0",
+    "markdownlint-cli": "^0.34.0",
     "prettier": "^2.8.8",
     "stylelint": "^15.6.2",
     "stylelint-config-standard": "^33.0.0"

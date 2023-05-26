@@ -5,7 +5,8 @@ Some boundaries around our project.
 ## External
 
 <!--
-  constraints coming from the outside that your team has no control over. these may include:
+  constraints coming from the outside that your team has no control over.
+  These may include:
   - project deadlines
   - UI design or color schemes
   - technologies (sometimes a client will tell you what to use)
