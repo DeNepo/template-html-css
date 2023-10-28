@@ -12,7 +12,7 @@
     "validate:html": "html-validate ./",
     "accessibility": "achecker"
   },
-  "author": "HYF Belgium",
+  "author": "DeNepo",
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^2.0.0",
