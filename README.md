@@ -115,8 +115,7 @@ locally.
 
 - Give each member **_write_** access to the repo (if it's a group project)
 - Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- In _General_ Section > check **Discussions**
+- Go to _General_ Section > check **Discussions**
 - In the _Branches_ section of your repo's settings make sure the
   `master`/`main` branch must:
   - "_Require a pull request before merging_"

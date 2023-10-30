@@ -5,24 +5,23 @@
   "scripts": {
     "format": "prettier --write ./",
     "format:check": "prettier --check ./",
-    "spell-check": "cspell  './**'",
+    "spell-check": "cspell  \"./**\"",
     "lint:ls": "ls-lint",
-    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc ./ ",
-    "lint:css": "stylelint './**/*.css'",
+    "lint:md": "markdownlint --config ./.markdownlint.jsonc ./ ",
+    "lint:css": "stylelint \"./**/*.css\"",
     "validate:html": "html-validate ./",
     "accessibility": "achecker"
   },
-  "author": "HYF Belgium",
+  "author": "DeNepo",
   "license": "MIT",
   "devDependencies": {
-    "@ls-lint/ls-lint": "^1.10.0",
-    "accessibility-checker": "^3.1.10",
-    "cspell": "^5.6.6",
-    "html-validate": "^5.2.0",
-    "markdownlint-cli": "^0.28.1",
-    "prettier": "^2.3.2",
-    "stylelint": "^13.13.1",
-    "stylelint-config-prettier": "^9.0.3",
-    "stylelint-config-standard": "^22.0.0"
+    "@ls-lint/ls-lint": "^2.0.0",
+    "accessibility-checker": "^3.1.48",
+    "cspell": "^6.31.1",
+    "html-validate": "^7.18.0",
+    "markdownlint-cli": "^0.34.0",
+    "prettier": "^2.8.8",
+    "stylelint": "^15.6.2",
+    "stylelint-config-standard": "^33.0.0"
   }
 }

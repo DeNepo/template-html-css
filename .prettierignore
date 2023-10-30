@@ -1,0 +1,22 @@
+**/.svn
+**/.hg
+**/node_modules
+
+# package.json is formatted by package managers, so we ignore it here
+package.json
+package-lock.json
+
+
+# binary files
+*.jpg
+*.png
+*.gif
+
+# cannot be formatted by Prettier
+*.conf
+*.py
+*.toml
+*.txt
+.gitignore
+.gitmessage
+.prettierignore
