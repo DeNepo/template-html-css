@@ -1,133 +1,70 @@
-# How to Plan
+# My Portfolio
 
-1. [Brainstorming](#brainstorming)
-2. [Prioritizing](#prioritizing)
-3. [User Story Dependencies](#user-story-dependencies)
-4. [Acceptance Criteria](#acceptance-criteria)
-5. [Defining Tasks](#defining-tasks)
-6. [Project Board](#project-board)
-7. [Sprinting and Reviewing](#sprinting-and-reviewing)
+## Introduction
 
----
+Welcome to my portfolio! This project showcases my skills, education, and
+projects as a junior developer!
 
-## Brainstorming
+## Project Objectives
 
-> - What user needs and business problem does this app cover?
-> - Who is the user?
-> - What is the business?
+The main objectives of this portfolio are to:
 
----
+- Showcase my skills and projects to potential collaborators and employers.
+- Provide a platform to share my knowledge and learn from others in the
+  development community.
+- Improve my skills as a web designer and developer through practical
+  application.
 
-## Prioritizing
+## Features
 
-> How to decide which stories to focus on.
+- Sections for skills, projects, about me, and contact information.
+- Clean and intuitive user interface.
+- Responsive design for seamless viewing on various devices.
+- Dark mode for comfortable browsing at night.
 
-At this stage in planning your team will decide which stories are more aor less
-important. You will be writing your ideas into a _backlog_.
+## Technologies Used
 
-- [Many Strategies](https://zapier.com/blog/how-to-prioritize)
-- The Priority Quadrant
-  - [The Quadrant](https://www.youtube.com/watch?v=NGvsxPOmWuw)
-  - [Problems with this method](https://www.linkedin.com/pulse/why-prioritization-impacteffort-doesnt-work-itamar-gilad)
-- Other Perspectives
-  - [Alex Ponomarev](https://medium.com/swlh/prioritizing-user-stories-in-agile-projects-d1dd8dd79165)
-  - [Michael Lant](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
+- HTML
+- CSS
 
----
+## Installation
 
-## Acceptance Criteria
+To view this portfolio locally, follow these steps:
 
-> How you'll know when a story is finished.
+1. Clone this repository to your local machine.
+2. Open the index.html file in your preferred web browser.
 
-Now that you have an idea what the project will eventually be like, it's time to
-get specific. Acceptance criteria are a way to scope and verify your user
-stories.
+## Usage
 
-> Given [context] when [a specific action is performed] then [a set of > > > > >
->
-> > consequences should occur]
+Navigate through the different sections using the navigation menu:
 
-You can write your first-draft acceptance criteria in your backlog, later moving
-them under each user story in your `development-strategy.md`, and ultimately
-creating a checklist in each issue.
+- **About Me**: Learn more about my background, interests, and goals.
+- **Education**: Learn about my educational background, including degrees,
+  certifications, and relevant courses.
+- **Skills**: Explore my technical skills and expertise.
+- **Resume**: Download my CV to learn more about my professional experience and
+  qualifications.
+- **Contact**: Reach out to me via email or connect with me on social media.
+- **Dark Mode**: Toggle between light and dark mode for comfortable browsing at
+  night.
 
-- [Yodiz](https://www.yodiz.com/blog/user-stories-acceptance-definition-and-criteria-in-agile-methodologies/)
-- [Zepel](https://zepel.io/agile/acceptance-criteria-for-user-stories/)
-- [Ruby Garage](https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important)
-- [The Infinity Project](https://www.youtube.com/watch?v=KYS0ptJ4JWc)
-  1. User Input / User Action
-  2. Process
-  3. Results
+## Web design in figma
 
----
+-Front page of web:
+[Design](https://www.figma.com/file/KRpF7DBit2Mc0E1JfVONRO/Untitled?type=design&node-id=0%3A1&mode=design&t=UO5b5EKicxDYURZ3-1)
 
-## User Story Dependencies
+## Contributing
 
-> How to plan your development schedule.
+Contributions and feedback are welcome! If you have any suggestions for improvement or would like to report a bug, please open an issue or submit a pull request.
 
-Some user stories depend on each other, some do not. Figuring out these
-relationships will make it possible go from a disorganized backlog to an
-organized development strategy.
+## Contact Information
 
-Understanding these dependencies can also allow you to develop much more
-efficiently. You can develope user stories that do not depend on each other in
-parallel instead of waiting for one to finish before moving on the next.
+For inquiries or collaborations, feel free to contact me:
 
-Here are some questions you can ask yourself to help understand your project:
+- Email: <jfnibishaka@gmail.com>
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
-- Do I need _A_ in order to be able to build _B_?
-- Can the user do B without A being available?
+## Acknowledgments
 
-A nice way to visualize these relationships is by creating a graph to visually
-represent dependencies:
-
-- [a quiz app](https://excalidraw.com/#json=5248906938023936,dnJz0Qy9tk5M4ho-RUiqYQ)
-- [a portfolio example](https://github.com/elewa-student/User-Centered-Development#story-dependencies)
-
-[Excalidraw](https://excalidraw.com/) is a great tool for collaboratively
-writing these diagrams.
-
----
-
-## Defining Tasks
-
-> How to break the story into coding tasks.
-
-Answering these questions is a way to break down complex user stories and to
-determine what code is needed. Following this questions guide will help you fill
-in the specifications of each step in your `development-strategy.md`
-
-Handlers are the glue of your user stories. Understanding your answers to these
-questions will not only help you decide which tasks to develop, but can be used
-to plan the details of the user story's handler:
-
-1. **User Story Objectives**
-   1. _... ?_
-2. **User Flow ?**
-   1. _... ?_
-3. **Wireframes ?**
-   1. _... ?_
-
-- [Lars Bilde](https://www.youtube.com/watch?v=gZ4uLafsxAk)
-- [Christiaan Verwijs](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
-
----
-
-## Project Board
-
-> How to manage your team's project
-
-Convert your development strategy into milestones (user stories), issues, labels
-and a project board. When you create the milestones for your user stories, you
-can include the _acceptance criteria_ as a checklist in the milestone's
-description.
-
-This isn't a permanent thing! You can always adjust the project board and
-development strategy as the project evolves; adding issues, removing issues,
-adjusting tasks ... whatever is necessary to make the project go smoothly.
-
----
-
-## Sprinting and Reviewing
-
-The fun part, writing code and closing issues ;)
+Special thanks to HYFB for their guidance and support throughout the
+development.
