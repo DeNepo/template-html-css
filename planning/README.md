@@ -3,7 +3,7 @@
 ## Introduction
 
 Welcome to my portfolio! This project showcases my skills, education, and
-projects as a junior developer.
+projects as a junior developer!
 
 ## Project Objectives
 
@@ -55,9 +55,7 @@ Navigate through the different sections using the navigation menu:
 
 ## Contributing
 
-Contributions and feedback are welcome! If you have any suggestions for
-improvement or would like to report a bug, please open an issue or submit a pull
-request.
+Contributions and feedback are welcome! If you have any suggestions for improvement or would like to report a bug, please open an issue or submit a pull request.
 
 ## Contact Information
 
